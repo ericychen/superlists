@@ -33,3 +33,5 @@ assert 'To-Do' in browser.title
 # Satisfied, she goes back to sleep
 
 browser.quit()
+
+#just a dummy
